@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
-{int n,a[50],sum,i;
+{
+int n,a[50],sum,i;
 float avg;
 sum=0;
 printf("Enter the number of numbers of which you want to find the average: \n");
