@@ -1,5 +1,6 @@
 #include<stdio.h>
-float average(int,int,int); int main()
+float average(int,int,int); 
+int main()
 {
 int a,b,c;
 float avg;
